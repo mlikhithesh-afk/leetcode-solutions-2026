@@ -1,6 +1,6 @@
 ## Problem: Valid Anagram (Easy)
 
-**Link:** [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+**Link:** https://leetcode.com/problems/valid-anagram/description/
 
 ### Approach
 Count each lowercase letter in the first string and subtract counts using the second string.
