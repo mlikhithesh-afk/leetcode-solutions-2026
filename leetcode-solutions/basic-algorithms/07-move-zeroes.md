@@ -1,6 +1,6 @@
 ## Problem: Move Zeroes (Easy–Medium)
 
-**Link:** [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+**Link:**  https://leetcode.com/problems/move-zeroes/description/
 
 ### Approach
 Move non-zero values forward while preserving their order, then fill the remaining positions with zeroes.
