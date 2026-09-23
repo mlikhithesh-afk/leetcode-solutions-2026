@@ -1,12 +1,12 @@
-# Progress Tracker
+# LeetCode Progress
 
 | Date | Problem | Topic | Difficulty | Status | Time Taken |
 |---|---|---|---|---|---|
-| 17/09/2026 | Two Sum | Arrays & Strings | Easy | ⏳ To Submit | |
-| 17/09/2026 | Reverse String | Arrays & Strings | Easy | ⏳ To Submit | |
-| 17/09/2026 | Valid Anagram | Arrays & Strings | Easy | ⏳ To Submit | |
-| 17/09/2026 | Best Time to Buy and Sell Stock | Arrays & Strings | Easy–Medium | ⏳ To Submit | |
-| 17/09/2026 | Longest Common Prefix | Arrays & Strings | Easy–Medium | ⏳ To Submit | |
-| 17/09/2026 | Binary Search | Basic Algorithms | Easy–Medium | ⏳ To Submit | |
-| 17/09/2026 | Move Zeroes | Basic Algorithms | Easy–Medium | ⏳ To Submit | |
-| 17/09/2026 | Valid Parentheses | Stacks | Easy–Medium | ⏳ To Submit | |
+| 23/09/2026 | Two Sum | Arrays & Strings | Easy | ✅ Solved |1hrs  |
+| 23/09/2026 | Reverse a String | Arrays & Strings | Easy | ✅ Solved | 1hrs |
+| 23/09/2026 | Valid Anagram | Arrays & Strings | Easy | ✅ Solved |  |
+| 23/09/2026 | Best Time to Buy and Sell Stock | Arrays & Strings | Easy | ✅ Solved |45mins  |
+| 23/09/2026 | Longest Common Prefix | Arrays & Strings | Easy | ✅ Solved |  |
+| 23/09/2026 | Binary Search | Basic Algorithms | Easy | ✅ Solved | 40mins |
+| 23/09/2026 | Move Zeroes | Basic Algorithms | Easy | ✅ Solved | 55mins |
+| 23/09/2026 | Valid Parentheses | Stacks | Easy | ✅ Solved |55mins  |
