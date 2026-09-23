@@ -1,6 +1,6 @@
 ## Problem: Binary Search (Easy–Medium)
 
-**Link:** [Binary Search](https://leetcode.com/problems/binary-search/)
+**Link**https://leetcode.com/problems/binary-search/description/
 
 ### Approach
 Use two pointers and repeatedly discard half of the sorted search range.
