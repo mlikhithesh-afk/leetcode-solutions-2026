@@ -1,6 +1,6 @@
 ## Problem: Reverse String (Easy)
 
-**Link:** [Reverse String](https://leetcode.com/problems/reverse-string/)
+**Link:** https://leetcode.com/problems/reverse-string/description/
 
 ### Approach
 Reverse the character vector in place. This avoids creating another string.
